@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>GörresKinderverschwinden</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      background-color: #ffe4e1; /* Zartes Rosa */
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    a {
+      color: #d63384;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>👋 Hallo, wir sind die Organisation  GörresKinderverschwinden</h1>
+
+  <p>Deswegen gibt es uns :</p>
+  <p>In den letzden Jahren sind immer wieder Kinder, die das Görres Gymnasium besuchten, verschwunden. Zeugen berichten sie wurden zuletzt bei der alten Schulbibiothek gesehen. Anscheindend soll das Betreten dieser unter den Schüllerinnen und Schülern eine Mutprobe sein.</p>
+
+  <h2>Verschwundene Kinder :</h2>
+  <ul>
+    <li>Amanda Jonas</li>
+    <li>Noa Müller</li>
+    <li>Johnas Weiß</li>
+  </ul>
+
+  <h2> Kontakt</h2>
+  <p>Wir müssen auf diese Problematik aufmerksam machen. Drei Kinder verschwinden und bessuchen zufällig die gleiche Schule? Das kann kein Zufall sein! Liebe Grüße Helene Marie Joy</p>
+
+</body>
+</html>
